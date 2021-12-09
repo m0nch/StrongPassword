@@ -28,8 +28,6 @@ class Result
     //        cnt++;
     //    }
 
-    //    cnt = 4 - cnt;
-
     //    if (n - cnt < 6)
     //    return 6 - cnt;
     //else
